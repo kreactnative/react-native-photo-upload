@@ -14,8 +14,7 @@
     "prop-types": "^15.5.10",
     "react-native-fs": "^2.5.1",
     "react-native-image-picker": "^0.26.7",
-    "react-native-image-resizer": "^1.0.0",
-    "react-native-photo-upload": "https://github.com/kreactnative/react-native-photo-upload.git"
+    "react-native-image-resizer": "^1.0.0"
   },
   "devDependencies": {
     "standard": "^10.0.2"
